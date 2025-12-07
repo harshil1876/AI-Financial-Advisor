@@ -1,0 +1,10 @@
+crewai[google-genai]
+crewai-tools
+duckduckgo-search
+requests
+python-dotenv
+langchain-google-genai
+langchain-community
+litellm
+google-genai
+yfinance
